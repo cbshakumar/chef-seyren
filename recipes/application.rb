@@ -28,5 +28,5 @@ application node[:seyren][:application_name] do
 
   java_webapp
 
-  tomcat
+  #tomcat
 end
