@@ -6,7 +6,7 @@ metadata
 
 cookbook 'java', git: 'https://github.com/socrata-cookbooks/java'
 cookbook 'ark', '0.7.0'
-cookbook 'tomcat', '0.15.12'
+cookbook 'tomcat_latest', '~> 0.1.6'
 cookbook 'application_java', git: 'https://github.com/jamiely/application_java'
 cookbook 'mongodb', git: 'https://github.com/edelight/chef-mongodb'
 
